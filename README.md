@@ -65,6 +65,11 @@ def speckle_filter_bilateral(image_path, d=9, sigma_color=75, sigma_space=75):
 - Display the original and filtered images using `cv2_imshow`.
 - Wait for a key press and close all windows.
 
+![1](https://github.com/Kevin-Benny/IA-ImageFilteringTech-Flask/assets/90462533/25010f6b-bc55-478e-afe7-dc359a935241)
+![image](https://github.com/Kevin-Benny/IA-ImageFilteringTech-Flask/assets/90462533/12b60868-726a-4059-b9c7-61805a479d5d)
+![image](https://github.com/Kevin-Benny/IA-ImageFilteringTech-Flask/assets/90462533/9bd8d380-14a1-4563-9f39-ed4f4f8f7112)
+
+
 # All Filters Used:
 - Speckle Filter 
 - Poisson Filter
