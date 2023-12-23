@@ -1,5 +1,5 @@
 # My contribution:
-## Code for Poisson filter
+## 1. Poisson filter
 ```
 def apply_poisson_filter(img):
     # Create a Poisson filter kernel
@@ -28,7 +28,7 @@ def apply_poisson_filter(img):
 - The result is then converted back to uint8 for image representation.
 
 
-## code for Speckle Filter 
+## 2. Speckle Filter 
 
 ```
 def speckle_filter_bilateral(image_path, d=9, sigma_color=75, sigma_space=75):
